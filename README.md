@@ -25,7 +25,7 @@ tabs, bookmarks, etc.
 
 Yes, it's then a Web App...
 
-You can start Chrome or chromium or Chrome from the command line to do this:
+You can start Chrome or chromium from the command line to do this:
 ```sh
 google-chrome-stable --new-window --app=http://localhost:8080/index.html
     --OR--
